@@ -465,11 +465,11 @@
     <div class="container teamSection" id="team">
         <div class="row">
             <div class="col-md-3">
-                <img src="https://sazzad-saju.github.io/Job-Task-1-Designing/img/team 1.png" class="img-fluid" alt="">
-                <p class="fullname">Ruth Woods</p>
+                <img src="uploads/vc.jpg" class="img-fluid" alt="">
+                <p class="fullname">Brig Gen Md Shahinoor Alam</p>
                 <small class="title-sec">Vice Chancellor</small>
                 <small class="description">
-                    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.
+                Brig Gen Md. Shahinoor Alam, SPP, PEng. Vice Chancellor.
                 </small>
                 <div class="social-links">
                     <small><i class="fa fa-facebook-f"></i></small>
@@ -478,11 +478,11 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <img src="https://sazzad-saju.github.io/Job-Task-1-Designing/img/team 2.png" class="img-fluid" alt="">
-                <p class="fullname">Dr. Timothy Reed</p>
-                <small class="title-sec">Senior Professor</small>
+                <img src="uploads/gsb.jpg" class="img-fluid" alt="">
+                <p class="fullname">Mohammed Golam Sarwar Bhuyan</p>
+                <small class="title-sec">Professor & Head</small>
                 <small class="description">
-                    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.
+                Associate Professor & Head. Dept of Computer Science and Engineering. Bangladesh Army University of Engineering and Technology (BAUET).
                 </small>
                 <div class="social-links">
                     <small><i class="fa fa-facebook-f"></i></small>
@@ -491,11 +491,11 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <img src="https://sazzad-saju.github.io/Job-Task-1-Designing/img/team 3.png" class="img-fluid" alt="">
-                <p class="fullname">Victoria Valdez</p>
+                <img src="uploads/bristy.jpg" class="img-fluid" alt="">
+                <p class="fullname">Bristi Rani Roy</p>
                 <small class="title-sec">Lecturer</small>
                 <small class="description">
-                    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.
+                Bangladesh Army University of Engineering & Technology (BAUET) the pioneer Technical Institutes of Armed Forces, started its journey from 2015.
                 </small>
                 <div class="social-links">
                     <small><i class="fa fa-facebook-f"></i></small>
@@ -504,11 +504,11 @@
                 </div>
             </div>
             <div class="col-md-3">
-                <img src="https://sazzad-saju.github.io/Job-Task-1-Designing/img/team 4.png" class="img-fluid" alt="">
-                <p class="fullname">Beverly Little</p>
-                <small class="title-sec">Alumni, Donor</small>
+                <img src="uploads/asma.jpg" class="img-fluid" alt="">
+                <p class="fullname">Must. Asma Yasmin</p>
+                <small class="title-sec">Associate Professor</small>
                 <small class="description">
-                    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.
+                Associate Professor. Dept. of Computer Science & Engineering. Bangladesh Army University of Engineering and Technology (BAUET). Qadirabad Cantonment, Natore
                 </small>
                 <div class="social-links">
                     <small><i class="fa fa-facebook-f"></i></small>

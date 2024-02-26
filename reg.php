@@ -49,8 +49,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             
             // send email
             $smtp_host = 'smtp.mailtrap.io';
-            $smtp_username = 'ae5cc683cb4ff6';
-            $smtp_password = '9e9fb51b66379e';
+            $smtp_username = 'd9b071832f6025';
+            $smtp_password = 'cb54aec0707da8';
             $smtp_port = 2525;
             
             $from_email = 'bauet@edu.govt.bd';
